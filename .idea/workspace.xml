@@ -1,27 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc5d51f5-93f4-420e-8634-c0b803ab4599" name="Default Changelist" comment="" />
+    <list default="true" id="fc5d51f5-93f4-420e-8634-c0b803ab4599" name="Default Changelist" comment="easyjson">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fast.go" beforeDir="false" afterPath="$PROJECT_DIR$/fast.go" afterDir="false" />
+    </list>
+    <list id="852504c2-296c-48c7-9e01-414492f06d39" name="easyjson" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fast.go" beforeDir="false" afterPath="$PROJECT_DIR$/fast.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/fast.go">
+      <ranges>
+        <range start1="1" end1="1" start2="1" end2="62" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="2" end1="10" start2="63" end2="63" changelist="852504c2-296c-48c7-9e01-414492f06d39" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="20" changelist="852504c2-296c-48c7-9e01-414492f06d39" />
+        <range start1="3" end1="4" start2="21" end2="29" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="8" end1="8" start2="33" end2="40" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="10" end1="10" start2="42" end2="63" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="11" end1="11" start2="64" end2="65" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="16" end1="16" start2="70" end2="72" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="18" end1="18" start2="74" end2="77" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="20" end1="20" start2="79" end2="80" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="21" end1="21" start2="81" end2="83" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+        <range start1="25" end1="25" start2="87" end2="128" changelist="fc5d51f5-93f4-420e-8634-c0b803ab4599" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectId" id="1swe3K1ZovmabS1I4zxUGYiH2BI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\go\src" />
+      <recent name="C:\Users\Lenovo\go\src\coursera\hw3_bench\user" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="easyjson" />
+    <option name="LAST_COMMIT_MESSAGE" value="easyjson" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="945" y="246" key="#Go_Modules" timestamp="1621924692389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="945" y="246" key="#Go_Modules/0.0.1536.824@0.0.1536.824" timestamp="1621924692389" />
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1621924479917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1621924479917" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1621924302471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621924302471" />
+    <state x="618" y="327" key="VCS.ChangelistChooser" timestamp="1621924524766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="327" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1621924524766" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1621923531724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621923531724" />
   </component>
 </project>
